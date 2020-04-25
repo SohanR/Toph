@@ -25,11 +25,11 @@ int main()
     reverse(r.begin(), r.end());
     if (r == s)
     {
-        cout << "YES" << endl;
+        cout << "Yes" << endl;
     }
     else
     {
-        cout << "NO" << endl;
+        cout << "No" << endl;
     }
 
     return 0;
